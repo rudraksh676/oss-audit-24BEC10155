@@ -1,6 +1,6 @@
 # The Open Source Audit: Python
 
-**Student Name:** rudraksh <br>
+**Student Name:** Rudraksh Dherad <br>
 **Registration Number:** 24BEC10155 <br>
 **Project Focus:** Python (FOSS Audit)
 
